@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">iBook</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="reading_info">Reading is a conversation. All \nbook’s talk but a good book listens \nas well.</string>
+    <string name="get_started">Get Started</string>
+    <string name="proceed_info">You’re all set and ready to starting \nyour favorite books.</string>
+    <string name="proceed">Proceed</string>
+    <string name="sign_in">Sign In</string>
+    <string name="we_re_glad_to_have_you_back">We’re glad to have you back</string>
+    <string name="email_address">Email Address</string>
+    <string name="my_email">Chibuzonuoha57@gmail.com</string>
+    <string name="password">Password</string>
+    <string name="my_password">qwerty123</string>
+    <string name="new_to_ibook">New to iBook?</string>
+    <string name="set_up_an_account">Set up an account</string>
+    <string name="there_s_lots_in_store_for_you">There’s lots in store for you</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="first_name">First Name</string>
+    <string name="my_first_name">Godfirst</string>
+    <string name="last_name">Last Name</string>
+    <string name="my_last_name">Onuoha</string>
+    <string name="username">Username</string>
+    <string name="my_username">ChibuFirst</string>
+</resources>
